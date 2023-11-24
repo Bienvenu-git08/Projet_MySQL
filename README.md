@@ -1,4 +1,4 @@
-MySQL-Python-CRUD
+MySQL-Python-CRUD-Example
 
 Description
 
