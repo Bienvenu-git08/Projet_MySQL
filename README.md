@@ -10,7 +10,6 @@ Bibliothèque MySQL pour Python (mysql-connector-python-rf) 2.2.9
 
 Installation
 
-Clonez le dépôt : git clone https://github.com/Bienvenu-git08/MySQL-Python-CRUD-Example.git
 Accédez au répertoire du projet : cd MySQL-Python-CRUD-Example
 Installez les dépendances : pip install -r requirements.txt
 Configuration
